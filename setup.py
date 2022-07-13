@@ -18,7 +18,7 @@ if sys.platform == "win32":
 target = Executable(
     script="main.py",
     base=base,
-    targetName="script-gui",
+    target_name="script-gui",
     icon="app.ico",
 )
 
