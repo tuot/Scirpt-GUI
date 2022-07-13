@@ -5,12 +5,12 @@ Window {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Script GUI")
 
 
     Rectangle {
         width: 640
         height: 480
-        color: "red"
+        color: "blue"
     }
 }
