@@ -1,4 +1,4 @@
 pyside6==6.3.1
-cx-Freeze==6.11.1
+pyinstaller
 pylint
 mypy

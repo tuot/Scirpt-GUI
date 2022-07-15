@@ -6,7 +6,7 @@ from cx_Freeze import setup, Executable
 # "packages": ["os"] is used as example only
 build_exe_options = {
     "packages": ["os"],
-    "excludes": [],
+    "excludes": ["tkinter",],
     "include_files": ["main.qml", "app.ico"],
 }
 
