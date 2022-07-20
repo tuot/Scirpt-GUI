@@ -299,3 +299,7 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,qtcreator
+
+main.build/
+main.dist/
+main.onefile-build/
